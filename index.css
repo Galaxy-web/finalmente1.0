@@ -1,0 +1,65 @@
+/* Definição de estilos para o corpo da página */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f0f0f0;
+    background-image: url('onibus01.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+/* Estilos para o cabeçalho */
+header {
+    background-color: #8A2BE2;
+    color: #fff;
+    padding: 10px;
+}
+
+header h1 {
+    margin: 10px;
+    text-align: center;
+}
+
+header h3 {
+    margin: 10px;
+    text-align: center;
+}
+
+/* Estilos para as seções */
+section {
+    padding: 20px;
+    margin: 20px;
+    background-color: #808080;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+}
+
+section h2{
+    color: #fff;
+    text-align: center;
+}
+
+section p{
+    color: #fff;
+    text-align: center;
+    font-size: 15px;
+}
+section p span{
+    color: #8A2BE2;
+    font-size: 20px;
+}
+
+section h1{
+    color: #fff;
+    text-align: center;
+}
+
+/* Estilos para o rodapé */
+footer {
+    text-align: center;
+    padding: 10px;
+    background-color: #333;
+    color: #fff;
+}
+
